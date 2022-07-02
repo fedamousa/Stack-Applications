@@ -61,6 +61,8 @@ add topsymb to the postfix string;
 From the postfix expression, when some operands are found, pushed them in the stack. When some operator is found, two items are popped from the stack and the operation is performed in correct sequence. After that, the result is also pushed in the stack for future use. After completing the whole expression, the final result is also stored in the stack top.
 ### Input and Output
 ![image](https://user-images.githubusercontent.com/95087254/177017687-fb52a745-164d-4347-b206-ec635caebdf7.png)
+![image](https://user-images.githubusercontent.com/95087254/177017765-c6c0311c-3282-4f82-ad99-f5a674cfdaf8.png)
+
 ### Algorithm
 ```
 Opndstk= the empty stack;
